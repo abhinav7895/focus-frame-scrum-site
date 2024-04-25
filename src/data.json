@@ -1,0 +1,567 @@
+{
+  "boards": [
+    {
+      "name": "Product Development",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Ideation",
+          "tasks": [
+            {
+              "title": "Brainstorm new product ideas",
+              "description": "Generate ideas for new products based on market trends and customer feedback.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Research market trends",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Survey customers for feedback",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Define product specifications",
+              "description": "Outline the key features and requirements for the new product.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Create detailed product requirements document",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "tasks": [
+            {
+              "title": "Create product mockups",
+              "description": "Design visual representations of the new product.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Design mockups for key screens",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Develop branding and packaging",
+              "description": "Design the brand identity and packaging for the new product.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Design logo and brand colors",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Create packaging design",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Development",
+          "tasks": [
+            {
+              "title": "Build product prototype",
+              "description": "Create a functional prototype of the new product.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Develop prototype using agile methodology",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Test prototype",
+              "description": "Conduct testing to ensure the prototype meets quality standards.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Perform usability testing",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Address any issues found during testing",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Launch",
+          "tasks": [
+            {
+              "title": "Create marketing plan",
+              "description": "Develop a strategy to promote the new product.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Define target audience",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Plan marketing campaigns",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Prepare for product launch",
+              "description": "Finalize product packaging, marketing materials, and distribution channels.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Coordinate with manufacturing for production",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Create promotional materials",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Customer Engagement",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Feedback & Suggestions",
+          "tasks": [
+            {
+              "title": "Collect customer feedback",
+              "description": "Gather feedback from customers through surveys, reviews, and support interactions.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Send customer satisfaction surveys",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Monitor online reviews",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Implement feedback",
+              "description": "Use customer feedback to improve products, services, and customer experience.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Prioritize feedback items",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Implement changes based on feedback",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Community Engagement",
+          "tasks": [
+            {
+              "title": "Build community forums",
+              "description": "Create online forums for customers to discuss products and share experiences.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Select forum platform",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Create forum categories",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Engage with community",
+              "description": "Participate in discussions, answer questions, and provide support within the community forums.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Assign team members to monitor forums",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Regularly post updates and announcements",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Customer Support",
+          "tasks": [
+            {
+              "title": "Improve support processes",
+              "description": "Optimize customer support workflows to provide faster and more efficient service.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Review current support metrics",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Identify areas for improvement",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Enhance self-service options",
+              "description": "Provide customers with tools and resources to find answers to common questions on their own.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Create FAQ page",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Develop chatbot for instant assistance",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing & Promotions",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Campaign Planning",
+          "tasks": [
+            {
+              "title": "Identify target audience",
+              "description": "Define the demographic and psychographic characteristics of the ideal customer.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Conduct market research",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Create customer personas",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Develop marketing strategy",
+              "description": "Outline the key objectives, channels, and messages for the marketing campaign.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Define campaign goals",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Select marketing channels",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Content Creation",
+          "tasks": [
+            {
+              "title": "Create promotional content",
+              "description": "Develop engaging content for marketing materials, including ads, emails, and social media posts.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Design ad creatives",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Write compelling ad copy",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Plan content calendar",
+              "description": "Schedule the release of promotional content to align with campaign timeline.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Create content schedule",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Coordinate with design and copywriting teams",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Campaign Execution",
+          "tasks": [
+            {
+              "title": "Launch marketing campaign",
+              "description": "Execute the planned marketing activities to reach the target audience.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Monitor campaign performance",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Adjust campaign based on performance data",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Track and analyze results",
+              "description": "Measure the effectiveness of the marketing campaign and identify areas for improvement.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Analyze campaign metrics",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Generate campaign performance report",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inventory Management & Logistics",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Inventory Planning",
+          "tasks": [
+            {
+              "title": "Forecast demand",
+              "description": "Predict future demand for products based on historical data and market trends.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Review sales data",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Analyze market trends",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Manage stock levels",
+              "description": "Maintain optimal stock levels to prevent stockouts and overstocking.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Set reorder points",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Monitor stock levels regularly",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Logistics",
+          "tasks": [
+            {
+              "title": "Select shipping carriers",
+              "description": "Choose reliable shipping partners to deliver products to customers.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Research shipping carriers",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Negotiate shipping rates",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Optimize shipping processes",
+              "description": "Streamline shipping operations to reduce costs and improve delivery times.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Implement order tracking system",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Train staff on efficient packing methods",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Warehouse Management",
+          "tasks": [
+            {
+              "title": "Organize warehouse layout",
+              "description": "Design an efficient layout for storing and retrieving products.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Map out warehouse space",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Label storage locations",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Implement inventory tracking system",
+              "description": "Use technology to track inventory movement and maintain accuracy.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Select inventory tracking software",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Train staff on using the system",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Customer Service & Support",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Ticket Management",
+          "tasks": [
+            {
+              "title": "Receive and assign tickets",
+              "description": "Ensure all customer inquiries are logged and assigned to the appropriate team member.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Monitor incoming tickets",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Assign tickets based on expertise",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Respond to tickets",
+              "description": "Provide timely and helpful responses to customer inquiries.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Resolve customer issues",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Follow up on resolved tickets",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Live Chat Support",
+          "tasks": [
+            {
+              "title": "Offer live chat assistance",
+              "description": "Provide real-time support to customers browsing the website.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Monitor live chat requests",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Respond promptly to chat messages",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Feedback & Improvement",
+          "tasks": [
+            {
+              "title": "Collect customer feedback",
+              "description": "Gather feedback from customers to identify areas for improvement.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Send out customer surveys",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Monitor customer reviews",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Implement improvements",
+              "description": "Use customer feedback to make improvements to products and services.",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Identify key areas for improvement",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Implement changes based on feedback",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
