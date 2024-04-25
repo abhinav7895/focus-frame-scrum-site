@@ -47,7 +47,7 @@ function Column({ colIndex }) {
     <div
       onDrop={handleOnDrop}
       onDragOver={handleOnDragOver}
-      className="scrollbar-hide  mx-auto sm:mx-5 sm:pt-[90px] min-w-[280px] ">
+      className="scrollbar-hide  mx-auto sm:mx-5 sm:pt-[40px] min-w-[280px] ">
       <p className=" flex text-lg   items-center  gap-2 ">
        <span>
        <LuListTodo className={`text-2xl text-white p-[2px] rounded  ${color}`} />
